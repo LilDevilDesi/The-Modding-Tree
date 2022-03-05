@@ -2,7 +2,7 @@ let modInfo = {
 	name: "The Dating Tree",
 	id: "MyLoveLife",
 	author: "LilDevilDesi",
-	pointsName: "points",
+	pointsName: "Doki-Doki",
 	modFiles: ["layers.js", "tree.js"],
 
 	discordName: "",
